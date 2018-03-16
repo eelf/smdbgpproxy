@@ -1,4 +1,5 @@
 {
+    "name": "eelf/smdbgpproxy",
     "require": {
         "eelf/proto": "^1.0.1"
     },
